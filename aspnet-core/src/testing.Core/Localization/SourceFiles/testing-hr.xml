@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="hr">
+  <texts>
+	  <text name="HomePage" value="דף הבית" />
+	  <text name="About" value="אודות" />
+	  <text name="WelcomeMessage" value="ברוך הבא ל-WMS!" />
+	  <text name="FormIsNotValidMessage" value="טופס אינו חוקי. אנא בדוק ותקן את השגיאות." />
+	  <text name="TenantNameCanNotBeEmpty" value="שם החברה לא יכול להיות ריק" />
+	  <text name="InvalidUserNameOrPassword" value="שם משתמש או סיסמה לא חוקיים" />
+	  <text name="ThereIsNoTenantDefinedWithName{0}" value="לא קיים חברה מוגדרת עם השם {0}" />
+	  <text name="TenantIsNotActive" value="חברה {0} אינה פעילה." />
+	  <text name="UserIsNotActiveAndCanNotLogin" value="המשתמש {0} אינו פעיל ולא יכול להתחבר." />
+	  <text name="UserEmailIsNotConfirmedAndCanNotLogin">כתובת הדואר האלקטרוני שלך לא אושרה. לא ניתן להתחבר.</text>
+	  <text name="UserLockedOutMessage">חשבון המשתמש נעול. אנא נסה שוב מאוחר יותר.</text>
+	  <text name="PleaseEnterLoginInformation" value="אנא הזן את פרטי ההתחברות" />
+	  <text name="TenancyName" value="שם החברה" />
+	  <text name="UserNameOrEmail" value="שם משתמש או דואר אלקטרוני" />
+	  <text name="Password" value="סיסמה" />
+	  <text name="ResetPassword" value="איפוס סיסמה" />
+	  <text name="UpdatePassword" value="עדכן סיסמה" />
+	  <text name="RememberMe" value="זכור אותי" />
+	  <text name="LogIn" value="התחבר" />
+	  <text name="LoginFailed" value="שגיאה בהתחברות!" />
+    <text name="Name" value="שֵׁם" />
+	  <text name="Surname" value="שם משפחה" />
+	  <text name="EmailAddress" value="כתובת דואר אלקטרוני" />
+	  <text name="Tenants" value="דיירים" />
+	  <text name="SavedSuccessfully" value="נשמר בהצלחה" />
+	  <text name="CreateNewTenant" value="צור דייר חדש" />
+	  <text name="AdminEmailAddress" value="כתובת דואר אלקטרוני של מנהל" />
+	  <text name="AdminPassword" value="סיסמת מנהל" />
+	  <text name="Save" value="שמור" />
+	  <text name="Cancel" value="ביטול" />
+	  <text name="TenantName_Regex_Description" value="שם הדייר חייב להכיל לפחות 2 תווים, להתחיל באות ולהמשיך עם אות, מספר, קו או קו תחתון." />
+	  <text name="DefaultPasswordIs" value="סיסמת ברירת המחדל היא {0}" />
+	  <text name="CanBeEmptyToLoginAsHost" value="ניתן להשאיר ריק על מנת להתחבר כמארח." />
+	  <text name="Register" value="רישום" />
+	  <text name="OrLoginWith" value="או התחבר עם" />
+	  <text name="WaitingForActivationMessage" value="חשבונך ממתין להפעלה על ידי מנהל המערכת." />
+	  <text name="TenantSelection" value="בחירת דייר" />
+	  <text name="TenantSelection_Detail" value="אנא בחר אחד מהדיירים הבאים." />
+	  <text name="Logout" value="התנתק" />
+	  <text name="RegisterFormUserNameInvalidMessage">אל תזין כתובת דואר אלקטרוני כשם משתמש.</text>
+	  <text name="DatabaseConnectionString" value="מחרוזת חיבור לבסיס נתונים" />
+      <text name="Users" value="Usuarios" />
+	  <text name="IsActive" value="פעיל" />
+	  <text name="FullName" value="שם מלא" />
+	  <text name="CreateNewUser" value="צור משתמש חדש" />
+	  <text name="Yes" value="כן" />
+	  <text name="No" value="לא" />
+	  <text name="Optional" value="אופציונלי" />
+	  <text name="LeaveEmptyToSwitchToHost">השאר ריק כדי להחליף למארח</text>
+	  <text name="CurrentTenant">שוכר נוכחי</text>
+	  <text name="NotSelected">לא נבחר</text>
+	  <text name="Change">שינוי</text>
+	  <text name="ChangeTenant">שינוי דייר</text>
+	  <text name="MultiLevelMenu">תפריט רב-רמי</text>
+	  <text name="Back">חזור</text>
+	  <text name="SuccessfullyRegistered">נרשם בהצלחה</text>
+	  <text name="WaitingForEmailActivation">כתובת הדוא"ל שלך חייבת להיות פעילה</text>
+	  <text name="Roles">תפקידים</text>
+	  <text name="DisplayName">שם להצגה</text>
+	  <text name="Edit">ערוך</text>
+	  <text name="Delete">מחק</text>
+	  <text name="CreateNewRole">צור תפקיד חדש</text>
+	  <text name="RoleName">שם תפקיד</text>
+	  <text name="Actions">אפשרויות</text>
+	  <text name="CouldNotCompleteLoginOperation">לא ניתן היה להשלים את פעולת הכניסה. אנא נסה שוב מאוחר יותר.</text>
+	  <text name="CouldNotValidateExternalUser">לא ניתן היה לאמת את המשתמש החיצוני</text>
+	  <text name="EditRole">ערוך תפקיד</text>
+	  <text name="EditTenant">ערוך דייר</text>
+	  <text name="EditUser">ערוך משתמש</text>
+	  <text name="TenantIdIsNotActive{0}">מזהה הדייר {0} אינו פעיל</text>
+	  <text name="UnknownTenantId{0}">TenantId {0} לא ידוע</text>
+	  <text name="ThisFieldIsRequired">שדה זה נדרש</text>
+	  <text name="PleaseWait">אנא המתן...</text>
+	  <text name="Administration">ניהול</text>
+	  <text name="ClearAll">נקה הכל</text>
+	  <text name="ClearOthers">נקה אחרים</text>
+	  <text name="LabelOptions">אפשרויות תוויות</text>
+	  <text name="Permissions">הרשאות</text>
+	  <text name="RoleDescription">תאור תפקיד</text>
+	  <text name="Refresh">רענן</text>
+	  <text name="Create">צור</text>
+	  <text name="UserDetails">פרטי משתמש</text>
+	  <text name="UserRoles">התפקידים של המשתמש</text>
+	  <text name="ConfirmPassword">אישור סיסמה</text>
+	  <text name="Version">גרסה</text>
+	  <text name="On">מופעל</text>
+	  <text name="Off">כבוי</text>
+	  <text name="AreYouSureWantToDelete">האם את/ה בטוח/ה שברצונך למחוק {0}?</text>
+	  <text name="SuccessfullyDeleted">נמחק בהצלחה</text>
+	  <text name="StartTyping">התחל להקליד</text>
+	  <text name="Skins">עורות</text>
+	  <text name="Settings">הגדרות</text>
+	  <text name="Filter">סינון</text>
+	  <text name="CurrentPassword">סיסמה נוכחית</text>
+	  <text name="NewPassword">סיסמה חדשה</text>
+	  <text name="ConfirmNewPassword">אישור סיסמה חדשה</text>
+	  <text name="PasswordsDoNotMatch">הסיסמאות אינן תואמות</text>
+	  <text name="PasswordsMustBeAtLeast8CharactersContainLowercaseUppercaseNumber">הסיסמאות חייבות לכלול לפחות 8 תווים, לכלול אותיות קטנות, אותיות גדולות ומספרים</text>
+	  <text name="UserDeleteWarningMessage">המשתמש {0} יוסר.</text>
+	  <text name="RoleDeleteWarningMessage">פונקציית {0} תימחק והקצאה של כל המשתמשים שנקצאו לה תבוטל.</text>
+	  <text name="TenantDeleteWarningMessage">השוכר {0} יימחק.</text>
+	  <text name="SearchWithThreeDot">חפש...</text>
+	  <text name="PleaseEnterAtLeastNCharacter">נא להזין לפחות {0} תווים.</text>
+	  <text name="PleaseEnterNoMoreThanNCharacter">נא להזין לא יותר מ- {0} תווים.</text>
+	  <text name="InvalidEmailAddress">כתובת דוא"ל לא חוקית.</text>
+	  <text name="InvalidPattern">לא חוקי</text>
+	  <text name="PairsDoNotMatch">לא תואמות</text>
+	  <text name="All">כל</text>
+	  <text name="TotalRecordsCount">סך הכל: {0}</text>
+	  <text name="Search">חפש</text>
+	  <text name="Clear">נקה</text>
+	  <text name="ResetPasswordStepOneInfo">1. הכנס את הסיסמה שלך של מנהל</text>
+	  <text name="ResetPasswordStepTwoInfo">2. העתק סיסמה זו האקראית כדי לשלוח למשתמש</text>
+  </texts>
+</localizationDictionary>
